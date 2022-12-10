@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b65320f1-6aa7-4506-a435-7286068a4ab1" name="Changes" comment="Revert &quot;Initial test class for Colour constructor&quot;&#10;&#10;This reverts commit 6632c826de83dad8a5a44fb4e0473122019f6f16.">
+    <list default="true" id="b65320f1-6aa7-4506-a435-7286068a4ab1" name="Changes" comment="Added more tests to ColourTester.java.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ColourTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ColourTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670611628484</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added more tests to ColourTester.java.">
+      <created>1670692986774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670692986774</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added more tests to ColourTester.java." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more tests to ColourTester.java." />
   </component>
 </project>
