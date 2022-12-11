@@ -27,6 +27,7 @@ public class ColourTester {
         assertEquals(c1, c2);
         }
 
+        @Test
         public void testLongRGBConstructor(){
             //create colour objects to use for testing
             Colour c4 = new Colour("173827395829384571628723");
@@ -35,9 +36,7 @@ public class ColourTester {
 
             //test that constructor is functioning properly
             assertEquals("17382739", c4.getRed2());
-            assertEquals("74918294", c5.getBlue2());
+            assertEquals("01928562", c5.getBlue2());
             assertEquals("71628723", c5.getGreen2());
         }
-
-
 }

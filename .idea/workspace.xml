@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b65320f1-6aa7-4506-a435-7286068a4ab1" name="Changes" comment="Wrote constructor for Colour object with floating point parameters.">
+    <list default="true" id="b65320f1-6aa7-4506-a435-7286068a4ab1" name="Changes" comment="Wrote basic unit test for long parameter Colour constructor.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Colour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Colour.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ColourTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ColourTester.java" afterDir="false" />
@@ -41,6 +41,23 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="ColourTester.testLongRGBConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="colour" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ColourTester" />
+      <option name="METHOD_NAME" value="testLongRGBConstructor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ColourTester.testLongRGBConstructor" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670693930462</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Wrote basic unit test for long parameter Colour constructor.">
+      <created>1670766317041</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670766317041</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +142,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added more tests to ColourTester.java." />
     <MESSAGE value="Wrote constructor for Colour object with floating point parameters." />
-    <option name="LAST_COMMIT_MESSAGE" value="Wrote constructor for Colour object with floating point parameters." />
+    <MESSAGE value="Wrote basic unit test for long parameter Colour constructor." />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrote basic unit test for long parameter Colour constructor." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled$ColourTester_testLongRGBConstructor.ic" NAME="ColourTester.testLongRGBConstructor Coverage Results" MODIFIED="1670774136422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
